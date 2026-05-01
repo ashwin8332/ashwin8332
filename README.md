@@ -25,7 +25,7 @@
 
 ```typescript
 const ashwin = {
-    name: "Ashwin Vincent Koonissery",
+    name: "Ashwin VK",
     location: "India 🇮🇳",
     role: "Full Stack Developer & Prompt Engineer",
     languages: ["TypeScript", "Python", "Rust", "Go", "C++"],
