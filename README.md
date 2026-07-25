@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Ashwin VK
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Ashwin Vincent Koonissery
 
 <div align="center">
   
@@ -25,7 +25,7 @@
 
 ```typescript
 const ashwin = {
-    name: "Ashwin VK",
+    name: "Ashwin Vincent Koonissery",
     location: "India 🇮🇳",
     role: "Full Stack Developer & Prompt Engineer",
     languages: ["TypeScript", "Python", "Rust", "Go", "C++"],
