@@ -9,7 +9,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logoColor=white)](https:https://avkdev.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazerviji80@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshiashwin80@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-vincent-koonissery-a2662a2b7/)
 [![YouTube](https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thisisash832)
 [![Discord](https://img.shields.io/badge/💬_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
@@ -27,7 +27,7 @@
 const ashwin = {
     name: "Ashwin Vincent Koonissery",
     location: "India 🇮🇳",
-    role: "Full Stack Developer & Prompt Engineer",
+    role: "Software Developer & AI Engineer",
     languages: ["TypeScript", "Python", "Rust", "Go", "C++"],
     frameworks: ["React", "Next.js", "NestJS", "Django", "Express"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
@@ -197,9 +197,9 @@ Other        12 mins         ░░░░░░░░░░░░░░░░░
 <td align="center" width="33%">
 
 ### 📫 **Reach Me**
-- 📧 **Email**: [lazerviji80@gmail.com](mailto:lazerviji80@gmail.com)
+- 📧 **Email**: [lazerviji80@gmail.com](mailto:anshilashwin80@gmail.com)
 - 💼 **LinkedIn**: [Connect](https://www.linkedin.com/in/ashwin-vincent-koonissery-a2662a2b7/)
-- 🌐 **Portfolio**: [ashwin56.netlify.app](https://ashwin56.netlify.app/)
+- 🌐 **Portfolio**: [ashwin56.netlify.app](https://avkdev.vercel.app/))
 - 🎥 **YouTube**: [Subscribe](https://www.youtube.com/@thisisash832)
 
 </td>
