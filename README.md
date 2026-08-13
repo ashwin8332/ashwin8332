@@ -7,8 +7,6 @@
 
 <div align="center">
 
-# 👋 Welcome to My Digital Space!
-
 ### 🎯 AI Engineer | Full-Stack Developer | Open Source Enthusiast
 
 *Building intelligent systems and crafting beautiful digital experiences*
@@ -123,17 +121,12 @@ My journey is fueled by:
 ## 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
+<br />
 
-<a href="https://github.com/ashwin8332">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwin8332&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin8332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-</a>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashwin8332&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
+<img
+  src="https://streak-stats.demolab.com?user=ashwin8332&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -170,7 +163,7 @@ My journey is fueled by:
 
 ## 🏆 **Achievements & Impact**
 
-<div align="center">
+<div align="left">
 
 - ⭐ Open source contributor with focus on AI/ML libraries
 - 🎓 AI & ML Honours student — hands-on research experience
@@ -289,7 +282,7 @@ I'm continuously expanding my knowledge in:
 
 ## 🌍 **Let's Connect & Build Together**
 
-<div align="center">
+<div align="left">
 
 ### "Code is poetry written for computers and humans to read"
 
