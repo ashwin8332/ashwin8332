@@ -1,236 +1,314 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Ashwin Vincent Koonissery
+<a href="https://github.com/ashwin8332">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwin8332/ashwin8332/main/dark.svg">
+    <img alt="GitHub Profile - Ashwin Vincent Koonissery" src="https://raw.githubusercontent.com/ashwin8332/ashwin8332/main/light.svg" width="100%">
+  </picture>
+</a>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Software+Developer+%F0%9F%9A%80;AI+Engineer++%F0%9F%A4%96;Data+Engineer+%F0%9F%A7%A0;Cybersecurity+Explorer+%F0%9F%94%92;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-</div>
+# 👋 Welcome to My Digital Space!
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logoColor=white)](https:https://avkdev.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshiashwin80@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-vincent-koonissery-a2662a2b7/)
-[![YouTube](https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thisisash832)
-[![Discord](https://img.shields.io/badge/💬_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+### 🎯 AI Engineer | Full-Stack Developer | Open Source Enthusiast
+
+*Building intelligent systems and crafting beautiful digital experiences*
+
+---
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-4F46E5?style=for-the-badge&logoColor=white)](https://avkdev.vercel.app/)
+[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshilashwin80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-vincent-koonissery-a2662a2b7)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwin8332)
+[![YouTube](https://img.shields.io/badge/🎥%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thisisash832)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 🚀 About Me
 
-## 🎯 **About Me**
+I'm a passionate **AI Engineer** and **Full-Stack Developer** from **Mumbai, India**, currently pursuing my **B.E. in IT with AI & ML Honours (2023-2027)**. I specialize in building intelligent systems, crafting scalable architectures, and creating impactful digital solutions.
 
-```typescript
-const ashwin = {
-    name: "Ashwin Vincent Koonissery",
-    location: "India 🇮🇳",
-    role: "Software Developer & AI Engineer",
-    languages: ["TypeScript", "Python", "Rust", "Go", "C++"],
-    frameworks: ["React", "Next.js", "NestJS", "Django", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
-    interests: ["AI/ML", "Cybersecurity", "Web3", "DevOps"],
-    currentFocus: "Building AI-powered applications",
-    philosophy: "Code is poetry, bugs are just typos! 🎨"
-};
-```
+My journey is fueled by:
+- 🤖 **Generative AI & Agentic AI** systems that push boundaries
+- 🏗️ **Full-Stack Engineering** from databases to cloud infrastructure  
+- 🔬 **Machine Learning & AI/ML** research and implementation
+- 🛠️ **Open Source** contributions and community collaboration
 
-## 🔥 **Tech Arsenal**
+---
 
+## 💻 **Tech Arsenal**
+
+### 🎨 **Frontend Mastery**
 <div align="center">
-
-### **🎨 Frontend Mastery**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,sass,bootstrap" alt="Frontend Skills" />
-</p>
-
-### **⚡ Backend Powerhouse** 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,rust,go,java,cpp,php,django,flask,express,nestjs,spring" alt="Backend Skills" />
-</p>
-
-### **🗄️ Database & Storage**
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase" alt="Database Skills" />
-</p>
-
-### **☁️ Cloud & DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,github,git,linux" alt="DevOps Skills" />
-</p>
-
-### **🤖 AI/ML & Data Science**
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI/ML Skills" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="sklearn" />
-</p>
-
-### **🔧 Tools & Others**
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,notion,discord,slack" alt="Tools" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,bootstrap,vite" alt="Frontend Skills" />
 </div>
 
-## 📊 **GitHub Analytics Dashboard**
-
+### ⚡ **Backend & AI Powerhouse**
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwin-maker-sfit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin-maker-sfit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask,cpp,java,c" alt="Backend Skills" />
 </div>
 
+### 🗄️ **Database & Data**
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashwin-maker-sfit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,redis" alt="Database Skills" />
 </div>
 
+### 🤖 **AI/ML & Deep Learning**
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI/ML Skills" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwin-maker-sfit&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
-
+**Specialized Frameworks**: Transformers · Hugging Face · RAG · LLMs · PyTorch · Scikit-learn · XGBoost · PEFT · QLoRA · LiteLLM · TensorFlow · OpenCV
 </div>
 
-## 🏆 **Achievements & Trophies**
-
+### ☁️ **Cloud, DevOps & Tools**
 <div align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma,prometheus,grafana" alt="DevOps Skills" />
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ashwin-maker-sfit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
+**Cloud Platforms**: Microsoft Fabric · Docker · Kubernetes · CI/CD Pipelines
 </div>
 
-## 📈 **Contribution Metrics**
+---
 
-<div align="center">
+## 🛠️ **Core Competencies**
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwin-maker-sfit&theme=tokyonight)
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwin-maker-sfit&theme=tokyonight" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwin-maker-sfit&theme=tokyonight" height="180em" />
-
-</div>
-
-## 🎯 **Current Projects & Focus**
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="25%" align="center">
 
-### 🚀 **Active Projects**
-- 🤖 AI-Powered Code Assistant
-- 🔐 Cybersecurity Dashboard
-- 📱 Full-Stack E-commerce Platform
-- 🌐 Real-time Chat Application
-- 📊 Data Visualization Tool
+### 🐍 **Core Languages**
+- Python
+- JavaScript  
+- TypeScript
+- SQL
+- C & C++
 
 </td>
-<td align="center" width="50%">
+<td width="25%" align="center">
 
-### 🎯 **Learning Goals**
-- 🧠 Advanced Machine Learning
-- 🔗 Blockchain Development
-- 🚀 Microservices Architecture
-- 📱 Mobile App Development
-- 🎨 UI/UX Design Principles
+### 🎯 **Python Ecosystem**
+- PyTorch (DL)
+- Transformers
+- Hugging Face
+- Scikit-learn
+- XGBoost
+- Pandas & NumPy
+
+</td>
+<td width="25%" align="center">
+
+### 🌐 **Web Stack**
+- React.js & Next.js
+- FastAPI & Flask
+- Node.js & Express
+- REST APIs
+- Real-time Systems
+
+</td>
+<td width="25%" align="center">
+
+### 💾 **Data & Cloud**
+- MongoDB
+- MySQL & SQLite
+- Microsoft Fabric
+- Docker & Deployment
+- GitHub & Git
 
 </td>
 </tr>
 </table>
 
-## 💡 **Fun Facts & Interests**
+---
 
-<img align="right" alt="Fun Facts" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-- 🌟 **Passion**: I can spend hours debugging code — not because I have to, but because I genuinely enjoy the thrill of solving tech puzzles!
-- 🤖 **AI Conversations**: I sometimes talk to AI models like they're my teammates
-- 🎮 **Gaming**: Love strategy games and puzzle-solving
-- 📚 **Reading**: Constantly exploring new tech blogs and research papers
-- 🎵 **Music**: Code better with lo-fi beats and jazz
-- 🌍 **Community**: Active in tech communities and forums
-
-## 🎨 **Coding Activity**
+## 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   45.2%
-Python       4 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   24.8%
-Rust         2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.6%
-JavaScript   1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    9.6%
-Go           1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.5%
-Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    1.1%
-```
-<!--END_SECTION:waka-->
+<a href="https://github.com/ashwin8332">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwin8332&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin8332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+</a>
 
 </div>
-
-## 🌐 **Connect & Collaborate**
 
 <div align="center">
 
-### 💬 **Let's Build Something Amazing Together!**
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150">
+![GitHub Streak](https://streak-stats.demolab.com?user=ashwin8332&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
 
 </div>
 
-<table align="center">
+---
+
+## 🎯 **Current Focus & Projects**
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+
+### 🔬 **Active Learning**
+- 🤖 Advanced LLM Architectures
+- 🧠 Multimodal AI Systems
+- 🔗 Agentic AI Frameworks
+- 📊 Real-time Data Processing
+- 🚀 System Design & Scalability
+
+</td>
+<td align="center" width="50%">
+
+### 💼 **Featured Projects**
+- 🤖 AI-Powered Code Assistant
+- 🔐 Cybersecurity Analytics Platform
+- 📱 Full-Stack AI Applications
+- 🌐 Real-time Collaboration Tools
+- 📊 Data Visualization & Dashboards
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 **Achievements & Impact**
+
+<div align="center">
+
+- ⭐ Open source contributor with focus on AI/ML libraries
+- 🎓 AI & ML Honours student — hands-on research experience
+- 🚀 Full-stack engineer — 10+ production applications
+- 📚 Technical writer — sharing knowledge on AI/ML concepts
+- 🤝 Community leader — mentoring junior developers
+
+</div>
+
+---
+
+## 🌟 **What Sets Me Apart**
+
+<table align="center" width="100%">
+<tr>
+<td align="left">
+
+### 💡 **Technical Excellence**
+✅ Full-stack development with modern frameworks  
+✅ AI/ML system design and implementation  
+✅ Cloud-native architecture patterns  
+✅ Performance optimization expertise  
+✅ Clean, maintainable code practices
+
+</td>
+<td align="left">
+
+### 🎨 **Creative Problem Solving**
+✅ End-to-end product thinking  
+✅ Innovative AI application design  
+✅ Scalable system architecture  
+✅ User-centric development  
+✅ Cross-functional collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 **Learning & Growth**
+
+I'm continuously expanding my knowledge in:
+- 🧠 **LLMs & Generative AI** — Architecture, fine-tuning, deployment
+- 🔗 **Agentic AI Systems** — Multi-agent frameworks and orchestration
+- 🚀 **System Design** — Building scalable, high-performance systems
+- 🔐 **Security & Privacy** — Secure AI systems and data protection
+- 📊 **Production ML** — MLOps, monitoring, and continuous deployment
+
+---
+
+## 🤝 **Open For Collaboration**
+
+<div align="center">
+
+<table align="center" width="90%">
 <tr>
 <td align="center" width="33%">
 
-### 🤝 **Open For**
+### 💼 **Opportunities**
 - Freelance Projects
-- Full-time Opportunities  
-- Open Source Contributions
-- Technical Mentoring
-- Collaboration
+- Full-time Roles
+- Contract Work
+- Internships
+- Research Partnerships
 
 </td>
 <td align="center" width="33%">
 
-### 📫 **Reach Me**
-- 📧 **Email**: [lazerviji80@gmail.com](mailto:anshilashwin80@gmail.com)
-- 💼 **LinkedIn**: [Connect](https://www.linkedin.com/in/ashwin-vincent-koonissery-a2662a2b7/)
-- 🌐 **Portfolio**: [ashwin56.netlify.app](https://avkdev.vercel.app/))
-- 🎥 **YouTube**: [Subscribe](https://www.youtube.com/@thisisash832)
+### 📫 **Reach Out**
+📧 **Email**: [anshilashwin80@gmail.com](mailto:anshilashwin80@gmail.com)  
+💼 **LinkedIn**: [Connect](https://linkedin.com/in/ashwin-vincent-koonissery-a2662a2b7)  
+🌐 **Portfolio**: [avkdev.vercel.app](https://avkdev.vercel.app)  
+🐙 **GitHub**: [ashwin8332](https://github.com/ashwin8332)  
+🎥 **YouTube**: [Subscribe](https://youtube.com/@thisisash832)
 
 </td>
 <td align="center" width="33%">
 
-### 💡 **Discussion Topics**
+### 💬 **Discussion Topics**
 - AI/ML Implementation
-- System Architecture  
-- Performance Optimization
-- Security Best Practices
+- System Architecture
+- Full-Stack Development
+- DevOps & Cloud
 - Career Growth
 
 </td>
 </tr>
 </table>
 
-## 📊 **Real-time Metrics**
+</div>
+
+---
+
+## 📈 **Contribution Insights**
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashwin-maker-sfit&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ashwin-maker-sfit?label=Followers&style=for-the-badge&color=00D9FF)
-![Stars](https://img.shields.io/github/stars/ashwin-maker-sfit?label=Stars&style=for-the-badge&color=FF6B35)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwin8332&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph" width="100%" />
 
 </div>
 
-## 🎵 **Current Vibe**
+---
+
+## 🎓 **Education**
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF)](https://open.spotify.com/user/username)
+**Bachelor of Engineering (B.E.) in Information Technology**  
+*with AI & ML Honours*  
+📍 Mumbai, India | 📅 2023–2027
+
+</div>
+
+---
+
+## 🌍 **Let's Connect & Build Together**
+
+<div align="center">
+
+### "Code is poetry written for computers and humans to read"
+
+I believe in:
+- ✨ Writing clean, maintainable code
+- 🚀 Shipping products that make a difference
+- 🤝 Collaborating and learning from the community
+- 💡 Solving real-world problems with technology
+- 🌱 Continuous learning and growth
+
+**Let's build something amazing together!** 🚀
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashwin8332&label=Profile%20Views&color=00D9FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ashwin8332?label=Followers&style=flat-square&color=00D9FF)
+![Stars](https://img.shields.io/github/stars/ashwin8332?label=Stars&style=flat-square&color=FF6B35)
 
 </div>
 
@@ -238,19 +316,11 @@ Other        12 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 🌟
+### 💡 *"The best way to predict the future is to invent it."* — Alan Kay
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+**Made with ❤️ by Ashwin Vincent Koonissery**
 
-### ⚡ **Thanks for stopping by! Let's build the future together!** ⚡
-
-</div>
-
-<div align="center">
-
-**Made with ❤️ and lots of ☕ by Ashwin Vincent Koonissery**
-
-![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-![Powered by coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
+![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
+![Powered by coffee](https://img.shields.io/badge/Powered%20by-☕%20%26%20🎵-brown?style=flat-square)
 
 </div>
