@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### 🎯 AI Engineer | Full-Stack Developer | Open Source Enthusiast
+### 🎯 AI Engineer | Software Developer | Open Source Enthusiast
 
 *Building intelligent systems and crafting beautiful digital experiences*
 
@@ -25,11 +25,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer** and **Full-Stack Developer** from **Mumbai, India**, currently pursuing my **B.E. in IT with AI & ML Honours (2023-2027)**. I specialize in building intelligent systems, crafting scalable architectures, and creating impactful digital solutions.
+I'm a passionate **AI Engineer** and **Software Developer** from **Mumbai, India**, currently pursuing my **B.E. in IT with AI & ML Honours (2023-2027)**. I specialize in building intelligent systems, crafting scalable architectures, and creating impactful digital solutions.
 
 My journey is fueled by:
 - 🤖 **Generative AI & Agentic AI** systems that push boundaries
-- 🏗️ **Full-Stack Engineering** from databases to cloud infrastructure  
+- 🏗️ **Software Engineering** from databases to cloud infrastructure  
 - 🔬 **Machine Learning & AI/ML** research and implementation
 - 🛠️ **Open Source** contributions and community collaboration
 
@@ -167,7 +167,7 @@ My journey is fueled by:
 
 - ⭐ Open source contributor with focus on AI/ML libraries
 - 🎓 AI & ML Honours student — hands-on research experience
-- 🚀 Full-stack engineer — 10+ production applications
+- 🚀 Software engineer — 10+ production applications
 - 📚 Technical writer — sharing knowledge on AI/ML concepts
 - 🤝 Community leader — mentoring junior developers
 
@@ -182,7 +182,7 @@ My journey is fueled by:
 <td align="left">
 
 ### 💡 **Technical Excellence**
-✅ Full-stack development with modern frameworks  
+✅ Software development with modern frameworks  
 ✅ AI/ML system design and implementation  
 ✅ Cloud-native architecture patterns  
 ✅ Performance optimization expertise  
